@@ -892,6 +892,7 @@
 
     .menu_first a:hover {
         background-image: none;
+        padding-left: unset;
     }
 
     .menu_first a {
