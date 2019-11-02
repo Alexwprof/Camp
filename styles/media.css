@@ -981,7 +981,7 @@
         width: 101.7%;
     }
 
-    wrap_svg {
+    .wrap_svg {
         display: flex;
         margin: 0 auto;
         width: 33%;
